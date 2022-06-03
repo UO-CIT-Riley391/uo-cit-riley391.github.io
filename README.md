@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+![Cat](IMG_5664.jpg)
+# CIT 281
+- Project 1
 
-You can use the [editor on GitHub](https://github.com/UO-CIT-Riley391/uo-cit-riley391.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+_We started by learning basic CLI commands and becoming familiar with our IDE of choice, Visual Studio Code_
+- Project 2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Next we became familiar with using git from the command line and starting to write JavaScript code_
+- Project 3
 
-### Markdown
+_We learned JavaScript best practices as well as our first attempt at understanding HTTP verbs_
+- Project 4
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Then we started to learn the REST API as well as JSON, a fitting pair_
+- Project 5
 
-```markdown
-Syntax highlighted code block
+_This was an extra credit project involving classes, constructors, and debugging_
+- Project 6
 
-# Header 1
-## Header 2
-### Header 3
+_This was when we really dug into the concept of classes and inheritance using various shapes_
+- Project 7
 
-- Bulleted
-- List
+_This Github page is our last project_
+- Lab 1
 
-1. Numbered
-2. List
+_Our first lab was simply installing the tools required for this course_
+- Lab 2
 
-**Bold** and _Italic_ and `Code` text
+_Our second lab involved more work with CLI commands and git_
+- Lab 3
 
-[Link](url) and ![Image](src)
-```
+_Practice with JavaScript best practices and using the module.exports and require() statements_
+- Lab 4
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+_Practice creating Fastify web servers, including practice with git and MIME types_
+- Lab 5
 
-### Jekyll Themes
+_This was when we started using Postman to test our Fastify server's ability to handle HTTP verbs_
+- Lab 6
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UO-CIT-Riley391/uo-cit-riley391.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_Our first look at Github, as well as more practice with classes_
+- Lab 7
 
-### Support or Contact
+_Simply creating a Github organization for the CIT Minor_
+- Lab 8
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_Practice with promises and using the node-fetch package_
+- Lab 9
+
+_Working through the Github learning lab course_
